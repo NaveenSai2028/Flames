@@ -291,10 +291,10 @@
 
             switch(result) {
                 case "Friends":
-                    message = "Besties for life!Friendship is better than love bro🤧  🤝"; emoji = "👯"; color = "#2196F3";
+                    message = "Besties for life!Friendship is better than love bro🤧  🤝"; emoji = ""; color = "#2196F3";
                     break;
                 case "Lovers":
-                    message = "True Love Alert! All The Best Broo ❤️"; emoji = "💑"; color = "#ff416c";
+                    message = "True Love Alert! All The Best Broo ❤️"; emoji = "💕"; color = "#ff416c";
                     triggerConfetti = true;
                     break;
                 case "Affection":
